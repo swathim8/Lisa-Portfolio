@@ -1,7 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Nunito&display=swap'); 
-:root{
+/*
+*{
+    outline: 1px solid red !important;
+}
+*/
+body{
     font-family: 'Montserrat', sans-serif;
 }
 .container{
-    
+    padding-left: 1rem;
+    padding-right: 1rem;
 }
